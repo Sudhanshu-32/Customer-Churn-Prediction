@@ -148,9 +148,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 
 ```
 .
-├── svm_ecommerce_churn.ipynb     # Main notebook: EDA, preprocessing, modeling, evaluation
+├── svm.ipynb     # Main notebook: EDA, preprocessing, modeling, evaluation
 ├── E_Commerce_Dataset.xlsx       # Raw dataset (Kaggle)
-├── SVM_Ecommerce_Churn_Presentation.pptx   # Project presentation
+├── Ecommerce_Churn_Presentation.pptx   # Project presentation
 └── README.md                     # This file
 ```
 
